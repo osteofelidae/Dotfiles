@@ -1,0 +1,8 @@
+font=MesloLGS NF 10
+background-color=#9D6381FF
+text-color=#FDECEFFF
+border-color=#612940FF
+progress-color=#612940FF
+default-timeout=5000
+max-visible=3
+padding=12

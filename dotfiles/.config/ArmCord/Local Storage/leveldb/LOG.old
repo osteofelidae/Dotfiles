@@ -1,0 +1,15 @@
+2023/11/19-19:20:57.131 1046 Reusing MANIFEST /home/osteofelidae/.config/ArmCord/Local Storage/leveldb/MANIFEST-000001
+2023/11/19-19:20:57.132 1046 Recovering log #15
+2023/11/19-19:20:57.132 1046 Reusing old log /home/osteofelidae/.config/ArmCord/Local Storage/leveldb/000015.log 
+2023/11/19-19:22:57.473 1046 Level-0 table #19: started
+2023/11/19-19:22:57.479 1046 Level-0 table #19: 44630 bytes OK
+2023/11/19-19:22:57.481 1046 Delete type=0 #15
+2023/11/19-19:22:57.481 1046 Compacting 4@0 + 1@1 files
+2023/11/19-19:22:57.484 1046 Generated table #20@0: 79 keys, 41843 bytes
+2023/11/19-19:22:57.484 1046 Compacted 4@0 + 1@1 files => 41843 bytes
+2023/11/19-19:22:57.486 1046 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/19-19:22:57.486 1046 Delete type=2 #10
+2023/11/19-19:22:57.486 1046 Delete type=2 #8
+2023/11/19-19:22:57.486 1046 Delete type=2 #13
+2023/11/19-19:22:57.486 1046 Delete type=2 #19
+2023/11/19-19:22:57.486 1046 Delete type=2 #16
