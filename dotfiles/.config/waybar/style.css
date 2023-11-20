@@ -136,15 +136,17 @@ button:hover {
 }
 
 #clock {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
 #battery {
-    background-color: @rose;
+    background-color: @purple;
     border-bottom: 5px solid @purple;
 }
 
 #battery.charging, #battery.plugged {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
@@ -163,10 +165,12 @@ label:focus {
 }
 
 #cpu {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
 #memory {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
@@ -175,10 +179,12 @@ label:focus {
 }
 
 #backlight {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
 #network {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
@@ -188,6 +194,7 @@ label:focus {
 }
 
 #pulseaudio {
+    border-bottom: 5px solid @purple;
     background-color: @purple;
 }
 
