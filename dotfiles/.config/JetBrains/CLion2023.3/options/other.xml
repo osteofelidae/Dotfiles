@@ -1,0 +1,45 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="24.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "CL-233.11799.37",
+    "clion.initialConfigPerformed": "true",
+    "evlsprt3.CL-233.11799.37": "6",
+    "experimental.ui.used.version": "233.11799.37",
+    "file.gist.reindex.count": "4",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "gotit.previous.run": "CL-233.11799.37",
+    "ide.memory.adjusted": "true",
+    "last_opened_file_path": "/run/media/osteofelidae/EXTDOCS/C/Test CLion",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "CL-233.11799.37",
+    "ts.lib.d.ts.version": "5.2.2"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/run/media/osteofelidae/EXTDOCS/C/Test CLion"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

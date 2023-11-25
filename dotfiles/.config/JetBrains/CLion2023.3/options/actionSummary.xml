@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1700760850292" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1700760900430" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1700760902551" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1700760824861" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1700760820017" />
+    </e>
+  </component>
+</application>

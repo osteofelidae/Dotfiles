@@ -118,6 +118,7 @@ button:hover {
 #mpd {
     padding: 0 10px;
     background-color: @purple;
+    border-bottom: 5px solid @purple;
 }
 
 #window,
@@ -142,6 +143,11 @@ button:hover {
 
 #battery {
     background-color: @purple;
+    border-bottom: 5px solid @purple;
+}
+
+#battery:not(.charging):not(.plugged):not(.full) {
+    background-color: @rose;
     border-bottom: 5px solid @purple;
 }
 

@@ -5,7 +5,7 @@
 	<name>Open Terminal Here</name>
 	<submenu></submenu>
 	<unique-id>1700378906683936-1</unique-id>
-	<command>alacritty -e cd &quot;%f&quot;</command>
+	<command>alacritty</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>

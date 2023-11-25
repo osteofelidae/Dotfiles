@@ -1,0 +1,28 @@
+{
+  "add books dialog dir": "/home/osteofelidae/Downloads",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "database location dialog": "/home/osteofelidae/Documents/Calibre Library",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.0"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "systray_msg": true,
+  "welcome_wizard_device": "kindle_pw",
+  "welcome_wizard_was_run": true
+}

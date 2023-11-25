@@ -1,0 +1,60 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "PyCharm.NewProject.Git": "true",
+    "PyCharm.NewProject.Welcome": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-233.11799.32",
+    "enter_selection_count": "2",
+    "exception.accepted.notices": ":d4a3ab85",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "233.11799.32",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "PC-233.11799.32",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/run/media/osteofelidae/EXTDOCS/ASU/Semester 3/IEE-380/Mini Project/IEE-380 Mini Project",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PC-233.11799.32",
+    "stats.collector.latest.sending.timestamp": "1700517108137",
+    "stats.collector.today.sent.data.size": "917140",
+    "tab_selection_count": "3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/run/media/osteofelidae/EXTDOCS/ASU/Semester 3/IEE-380/Mini Project/IEE-380 Mini Project",
+      "/run/media/osteofelidae/EXTDOCS/Python/Crypto_Day_Trader_v2"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CtrlW&quot;: 1700511656956
+  },
+  &quot;proposedTips&quot;: {
+    &quot;CtrlW&quot;: 1700511656802
+  },
+  &quot;tipsOrderSeed&quot;: 1700511656773
+}</component>
+</application>

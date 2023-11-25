@@ -1,0 +1,127 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1700514077019" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1700512431423" />
+    </e>
+    <e n="$SelectAll">
+      <i c="2" l="1700510166224" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1700512251422" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="256" l="1700517096268" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1700512164861" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="5" l="1700515509613" />
+    </e>
+    <e n="EditorCopy">
+      <i c="10" l="1700516976528" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1700512557926" />
+    </e>
+    <e n="EditorDelete">
+      <i c="129" l="1700512371095" />
+    </e>
+    <e n="EditorDown">
+      <i c="71" l="1700514929773" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1700512403278" />
+    </e>
+    <e n="EditorEnter">
+      <i c="78" l="1700516891576" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1700512398446" />
+    </e>
+    <e n="EditorLeft">
+      <i c="20" l="1700516898786" />
+    </e>
+    <e n="EditorPaste">
+      <i c="9" l="1700516891753" />
+    </e>
+    <e n="EditorRight">
+      <i c="23" l="1700516898356" />
+    </e>
+    <e n="EditorTab">
+      <i c="11" l="1700514988387" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1700511600107" />
+    </e>
+    <e n="EditorUp">
+      <i c="11" l="1700513678919" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1700510138824" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1700510109714" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1700510109727" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1700510114045" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1700510082556" />
+    </e>
+    <e n="RestartIde">
+      <i c="1" l="1700511680259" />
+    </e>
+    <e n="Run">
+      <i c="37" l="1700516906149" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1700511620404" />
+    </e>
+    <e n="SaveAll">
+      <i c="100" l="1700517097091" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1700512213190" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="3" l="1700512387496" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1700510765378" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1700508216691" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="2" l="1700512447228" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1700513977026" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1700510110584" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="7" l="1700515687926" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1700510111704" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1700511753875" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1700512388714" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1700510092261" />
+    </e>
+  </component>
+</application>

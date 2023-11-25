@@ -1,5 +1,6 @@
-2023/11/19-21:25:11.813 3a58 Reusing MANIFEST /home/osteofelidae/.config/ArmCord/Local Storage/leveldb/MANIFEST-000001
-2023/11/19-21:25:11.813 3a58 Recovering log #18
-2023/11/19-21:25:11.814 3a58 Reusing old log /home/osteofelidae/.config/ArmCord/Local Storage/leveldb/000018.log 
-2023/11/19-21:27:05.562 3a87 Level-0 table #23: started
-2023/11/19-21:27:05.566 3a87 Level-0 table #23: 31444 bytes OK
+2023/11/24-10:38:33.031 6086 Reusing MANIFEST /home/osteofelidae/.config/ArmCord/Local Storage/leveldb/MANIFEST-000001
+2023/11/24-10:38:33.031 6086 Recovering log #77
+2023/11/24-10:38:33.031 6086 Reusing old log /home/osteofelidae/.config/ArmCord/Local Storage/leveldb/000077.log 
+2023/11/24-10:39:33.575 6086 Level-0 table #81: started
+2023/11/24-10:39:33.582 6086 Level-0 table #81: 35617 bytes OK
+2023/11/24-10:39:33.584 6086 Delete type=0 #77
